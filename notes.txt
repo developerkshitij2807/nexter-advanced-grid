@@ -1,0 +1,3 @@
+Use Map for each method in the HomesComponent and Features
+    -- make standard components and pass them react variables
+    
